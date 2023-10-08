@@ -1,0 +1,74 @@
+{
+  "houses": [
+    {
+      "id": 1,
+      "title": "Roracio House",
+      "size": 2000,
+      "price": 4500000,
+      "description": "Middle Family House",
+      "city": "Kilimani",
+      "county": "Nairobi",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "image_paths": [
+        "https://langatalinkrealestate.com/wp-content/uploads/2023/07/KAR222S-1.jpg"
+      ],
+      "agent_id": 1
+    },
+    {
+      "id": 2,
+      "title": "Osoro&Family House",
+      "size": 3000,
+      "price": 4500000,
+      "description": "House of memories, located on a serene environment",
+      "city": "Upperhill",
+      "county": "Nairobi",
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "image_paths": [
+        "https://langatalinkrealestate.com/wp-content/uploads/2023/03/KAR302S-1-1.jpg"
+      ],
+      "agent_id": 2
+    },
+    {
+      "title": "nyumbani",
+      "size": "123456780",
+      "price": "023456789034567",
+      "description": "Country house",
+      "city": "Kilimani",
+      "county": "Nairobi",
+      "bedrooms": "10",
+      "bathrooms": "6",
+      "image_paths": [
+        "https://images.unsplash.com/photo-1605276374104-dee2a0ed3cd6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+      ],
+      "id": 4
+    }
+  ],
+  "agents": [
+    {
+      "id": 1,
+      "name": "Faith Kaburu",
+      "email": "faithkaburu@gmail.com",
+      "phonebook": "0789126352"
+    },
+    {
+      "id": 2,
+      "name": "Emmanual Peter",
+      "email": "emmanuelpeter@gmail.com",
+      "phonebook": "0796325841"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Prince Hope",
+      "phonebook": "0796564749"
+    },
+    {
+      "id": 2,
+      "name": "Sumeya Mohammed",
+      "phonebook": "0786235641"
+    }
+  ]
+}
